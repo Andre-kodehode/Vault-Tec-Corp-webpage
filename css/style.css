@@ -20,9 +20,8 @@ img {
 }
 
 .pictures {
-  display: block;
-  max-width: 100%;
-  width: 450px;
+  width: 100%;
+  height: 250px;
   margin: 0 auto;
   padding: 15px 0;
 }
